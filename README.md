@@ -1,14 +1,19 @@
-# FLAPPYSHOOT:
+# Flapyshoot
+
+**Developed with Unity**
 
 Flappyshoot is a 2D game that consists of jumping to avoid falling to the ground and also dodging the bullets of enemy ships, in addition, the player can also shoot the enemy ships, the player will pass the level when the timer reaches the value 0 Edit
 Add topics
 
-## Features:
+## Features
 
 - Music integrated in the game
+- Play & Pause buttons
 
+## Screenshots
 
-## Screenshots:
+![Flapyshoot](https://i.ibb.co/j34cwtT/flappyshoot.png)
 
+### Credits
 
-![alt text](https://drive.google.com/file/d/1KLw2oxf42sLIShsyowz2dgye3G7HJ7L8/view)
+- **Sebastian Ortiz Velez** - *Developer* http://sebastianortiz.tk
