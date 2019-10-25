@@ -16,4 +16,4 @@ Add topics
 
 ### Credits
 
-- **Sebastian Ortiz Velez** - *Developer* http://sebastianortiz.tk
+- **Sebastian Ortiz Velez** - *Developer*
